@@ -4,5 +4,5 @@
 phpinfo();
 
 // Show name
-$name = 'lucien';
+$name = 'Hello World';
 echo $name;
